@@ -43,7 +43,7 @@ function g(x,y,z=1000){
 g(50,100)
 //template literals
 let n="thanay"
-function b(){
+function o(){
     console.log(`hi ${n} how are you...!`)
 }
-b()
+o()
